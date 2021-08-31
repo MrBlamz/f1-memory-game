@@ -2,10 +2,42 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: F1Regular;
+}
+
+@font-face {
+  font-family: F1Regular;
+  src: url(fonts/Formula1-Regular.otf);
+}
+
+@font-face {
+  font-family: F1Bold;
+  src: url(fonts/Formula1-Bold.otf);
+}
+
+.header {
+  background-color: #e10600;
+  padding: 1rem 3rem;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.header__title {
+  font-family: F1Bold;
+}
+
+.scoreboard {
+  margin-left: auto;
+  line-height: 2rem;
+}
+
+.scoreboard__score {
+  font-size: 1.2rem;
 }
 
 .grid {
-  padding: 1rem;
+  padding: 3rem;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 2rem;
