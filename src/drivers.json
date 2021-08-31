@@ -1,102 +1,102 @@
 [
   {
     "name": "Lewis Hamilton",
-    "url": "/assets/images/2021/01HAM.jpg",
+    "url": "assets/images/2021/01HAM.jpg",
     "id": 1
   },
   {
     "name": "Valtteri Bottas",
-    "url": "/assets/images/2021/02BOT.jpg",
+    "url": "assets/images/2021/02BOT.jpg",
     "id": 2
   },
   {
     "name": "Max Verstappen",
-    "url": "/assets/images/2021/03VER.jpg",
+    "url": "assets/images/2021/03VER.jpg",
     "id": 3
   },
   {
     "name": "Sergio Perez",
-    "url": "/assets/images/2021/04PER.jpg",
+    "url": "assets/images/2021/04PER.jpg",
     "id": 4
   },
   {
     "name": "Lando Norris",
-    "url": "/assets/images/2021/05NOR.jpg",
+    "url": "assets/images/2021/05NOR.jpg",
     "id": 5
   },
   {
     "name": "Daniel Ricciardo",
-    "url": "/assets/images/2021/06RIC.jpg",
+    "url": "assets/images/2021/06RIC.jpg",
     "id": 6
   },
   {
     "name": "Lance Stroll",
-    "url": "/assets/images/2021/07STR.jpg",
+    "url": "assets/images/2021/07STR.jpg",
     "id": 7
   },
   {
     "name": "Sebastian Vettel",
-    "url": "/assets/images/2021/08VET.jpg",
+    "url": "assets/images/2021/08VET.jpg",
     "id": 8
   },
   {
     "name": "Fernando Alonso",
-    "url": "/assets/images/2021/09ALO.jpg",
+    "url": "assets/images/2021/09ALO.jpg",
     "id": 9
   },
   {
     "name": "Esteban Ocon",
-    "url": "/assets/images/2021/10OCO.jpg",
+    "url": "assets/images/2021/10OCO.jpg",
     "id": 10
   },
   {
     "name": "Charles Leclerc",
-    "url": "/assets/images/2021/11LEC.jpg",
+    "url": "assets/images/2021/11LEC.jpg",
     "id": 11
   },
   {
     "name": "Carlos Sainz",
-    "url": "/assets/images/2021/12SAI.jpg",
+    "url": "assets/images/2021/12SAI.jpg",
     "id": 12
   },
   {
     "name": "Yuki Tsunoda",
-    "url": "/assets/images/2021/13TSU.jpg",
+    "url": "assets/images/2021/13TSU.jpg",
     "id": 13
   },
   {
     "name": "Pierre Gasly",
-    "url": "/assets/images/2021/14GAS.jpg",
+    "url": "assets/images/2021/14GAS.jpg",
     "id": 14
   },
   {
     "name": "Kimi Raikkonen",
-    "url": "/assets/images/2021/15RAI.jpg",
+    "url": "assets/images/2021/15RAI.jpg",
     "id": 15
   },
   {
     "name": "Antonio Giovinazzi",
-    "url": "/assets/images/2021/16GIO.jpg",
+    "url": "assets/images/2021/16GIO.jpg",
     "id": 16
   },
   {
     "name": "Nikita Mazepin",
-    "url": "/assets/images/2021/17MAZ.jpg",
+    "url": "assets/images/2021/17MAZ.jpg",
     "id": 17
   },
   {
     "name": "Mick Schumacher",
-    "url": "/assets/images/2021/18MSC.jpg",
+    "url": "assets/images/2021/18MSC.jpg",
     "id": 18
   },
   {
     "name": "George Russel",
-    "url": "/assets/images/2021/19RUS.jpg",
+    "url": "assets/images/2021/19RUS.jpg",
     "id": 19
   },
   {
     "name": "Nicholas Latifi",
-    "url": "/assets/images/2021/20LAT.jpg",
+    "url": "assets/images/2021/20LAT.jpg",
     "id": 20
   }
 ]
