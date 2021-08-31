@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/f1-memory-game/static/css/main.27d40170.chunk.css",
+    "main.js": "/f1-memory-game/static/js/main.25498fd5.chunk.js",
+    "main.js.map": "/f1-memory-game/static/js/main.25498fd5.chunk.js.map",
+    "runtime-main.js": "/f1-memory-game/static/js/runtime-main.bf16a599.js",
+    "runtime-main.js.map": "/f1-memory-game/static/js/runtime-main.bf16a599.js.map",
+    "static/js/2.2299930c.chunk.js": "/f1-memory-game/static/js/2.2299930c.chunk.js",
+    "static/js/2.2299930c.chunk.js.map": "/f1-memory-game/static/js/2.2299930c.chunk.js.map",
+    "index.html": "/f1-memory-game/index.html",
+    "static/css/main.27d40170.chunk.css.map": "/f1-memory-game/static/css/main.27d40170.chunk.css.map",
+    "static/js/2.2299930c.chunk.js.LICENSE.txt": "/f1-memory-game/static/js/2.2299930c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/f1-memory-game/static/media/Formula1-Regular.a5336cac.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf16a599.js",
+    "static/js/2.2299930c.chunk.js",
+    "static/css/main.27d40170.chunk.css",
+    "static/js/main.25498fd5.chunk.js"
+  ]
+}
