@@ -3,6 +3,7 @@ import { shuffleArray } from './helpers';
 import drivers from './drivers.json';
 import Grid from './components/Grid';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   const [highestScore, setHighestScore] = useState(0);
@@ -40,6 +41,10 @@ function App() {
         highestScore={highestScore}
       />
       <Grid data={data} handleImageClick={handleImageClick} />
+      <Footer
+        text='Made by Pedro Ribeiro'
+        profileUrl='https://github.com/MrBlamz'
+      />
     </div>
   );
 }
